@@ -29,3 +29,4 @@ def test_github(driver):
 
     assert driver.title =='GitHub · Change is constant. GitHub keeps you ahead. · GitHub'
     assert driver.current_url == url
+
