@@ -1,5 +1,3 @@
-print("Hello, README!")
-
 LOREM_IPSUM_TEXT = (
     "Lorem Ipsum - это текст-'рыба', часто используемый в печати и вэб-дизайне. "
     "Lorem Ipsum является стандартной рыбой для текстов на латинице с начала XVI века. "
@@ -20,6 +18,7 @@ def greet(name):
     print("Привет, " + name)
 
 
+print("Hello, README!")
 NUMS = [1, 2, 3, 4, 5]
 greet("мир")
 print(add(2, 2))
